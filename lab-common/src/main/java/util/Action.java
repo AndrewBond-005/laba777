@@ -1,0 +1,11 @@
+package util;
+
+public enum Action {
+    SERVER_DISCONNECTS,
+    SERVER_CONNECTS,
+    CLIENT_DISCONNECTS,
+    CLIENT_CONNECTS,
+    FAIL,
+    AUTHORIZATION,
+    REGISTRATION;
+}

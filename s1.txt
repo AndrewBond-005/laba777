@@ -1,0 +1,32 @@
+generate 1
+add
+a
+1
+5
+4
+2025-05-05
+COOK
+HIRED
+5
+
+BROWN
+BROWN
+INDIA
+
+update_id 1
+a
+1
+5
+4
+
+2025-05-05
+COOK
+HIRED
+5
+BROWN
+BROWN
+INDIA
+show
+es s1.txt
+filter_by_status HIRED
+min_by_position
